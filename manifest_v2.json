@@ -1,0 +1,40 @@
+{
+  "item": {
+    "id": "com.dshgo.depths",
+    "restype": "quick_app",
+    "name": "深渊行者",
+    "description": "小米手环 10 上的原生像素地牢 Roguelike。\n\n随机房间、视野迷雾、永久死亡，底部四键操作，撞上去就是攻击。6 层地牢，第 6 层杀死深渊之主即通关。\n\n官方 Vela 快应用（rpk），不刷固件、不破解。一次按键 = 一回合 = 一次重绘，不吃性能，手环 10 全系可用。\n\n开发不易，完全免费。想支持的话可以来爱发电：https://afdian.com/a/177814918dycyx",
+    "preview": [
+      "preview0.png",
+      "preview1.png",
+      "preview2.png",
+      "preview3.png"
+    ],
+    "icon": "icon.png",
+    "cover": "cover.png",
+    "author": [
+      {
+        "name": "bandbbs_3409779",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电主页",
+      "url": "https://afdian.com/a/177814918dycyx",
+      "icon": "afdian"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "com.dshgo.depths.release.1.0.0.rpk"
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "com.dshgo.depths.release.1.0.0.rpk"
+    }
+  },
+  "ext": {}
+}
